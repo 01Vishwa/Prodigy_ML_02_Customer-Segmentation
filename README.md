@@ -1,1 +1,1 @@
-# Prodigy_ML_02_Customer-Segmentation
+# Customer-Segmentation
